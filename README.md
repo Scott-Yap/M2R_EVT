@@ -1,2 +1,2 @@
 1. testing out evt python packages
-2. simulations on financial data using evt
+2. fitting models on financial data using evt
