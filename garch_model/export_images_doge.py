@@ -2,7 +2,7 @@ import junix
 
 import json
 
-with open("garch_model/GARCH_DOGE.ipynb", "r") as f:
+with open("garch_model/GARCH_DOGE.ipynb", "r", encoding='utf-8') as f:
     notebook_dict = json.load(f)
 
 with open("garch_model/GARCH_DOGE.ipynb", "w") as f:
